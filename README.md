@@ -4,8 +4,8 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 ![Workflows](https://img.shields.io/badge/Workflows-2000+-green?style=for-the-badge)
 ![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=for-the-badge)
-
-Welcome to the **largest open-source repository of n8n workflows** on GitHub! This collection features over **2,000+ production-ready workflows** designed to automate everything from simple daily tasks to complex enterprise-level business processes.
+7
+Welcome to the **largest open-soure repository of n8n workflows** on GitHub! This collection features over **2,000+ production-ready workflows** designed to automate everything from simple daily tasks to complex enterprise-level business processes.
 
 Whether you are an automation engineer, a business owner, or a hobbyist, this library provides a plug-and-play foundation for your n8n instance.
 
@@ -63,7 +63,7 @@ Using these templates is incredibly easy. No coding skills are required!
 ### Option 2: Bulk Import
 1. Clone this repository: 
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/raufgraphicss/n8n-workflows](https://github.com/raufgraphicss/n8n-workflows)
 
 ```
 
@@ -142,6 +142,6 @@ If these 2,000+ workflows saved you hundreds of hours of work, consider:
 
 ## 📬 Contact
 
-**Your Name/Handle** - [@raufgraphicss](https://www.google.com/search?q=https://instagram.com/raufgraphicss) - raufmediya@gmail.com
+**Rauf Babayev** - [@raufgraphicss](https://www.google.com/search?q=https://instagram.com/raufgraphicss) - raufmediya@gmail.com
 
 **Made with human and 🤖 for the n8n Community.**
